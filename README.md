@@ -47,7 +47,7 @@ To install any python library easily, there are few steps than any user should f
   
   Ahmed Ashraf     ahmedashraf828282@gmail.com
   
-  Aly
+  Aly Hesham
   
   Mohamed Shams    imohamedshamss@gmail.com
   
@@ -58,6 +58,8 @@ To install any python library easily, there are few steps than any user should f
   Ziad Khaled
   
   Ziad Sherif     zsherif308@gmail.com
+  
+  Mohammed Abdelmegeed     m.maguid9@hotmail.com
 
 *Citation*
 
